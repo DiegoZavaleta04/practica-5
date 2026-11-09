@@ -1,7 +1,7 @@
 import streamlit as st
 
 from modulos.login import login
-from modulos.ventas import mostrar_venta
+from modulos.VENTAS import mostrar_venta
 from modulos.productos import mostrar_productos
 
 # Inicializar variables de sesión
